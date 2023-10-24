@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096041481117",
+    "project_id": "propseek-778ab",
+    "storage_bucket": "propseek-778ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096041481117:android:26005b1143be16eb126574",
+        "android_client_info": {
+          "package_name": "com.example.propseek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-kY1kghJaD__TvSPpAXeVbRZQrSCUts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
